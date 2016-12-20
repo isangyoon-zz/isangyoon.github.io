@@ -23,6 +23,10 @@ main p,
   font-family: 'Roboto Condensed', sans-serif;
 }
 
+.footer-copyright {
+  letter-spacing: -1px;
+}
+
 strong {
   font-weight: 700;
 }
