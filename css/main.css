@@ -27,6 +27,10 @@ strong {
   padding-top: 10px;
 }
 
+.icon-block > p {
+  text-align: justify;
+}
+
 .parallax-container {
   min-height: 380px;
   line-height: 0;
