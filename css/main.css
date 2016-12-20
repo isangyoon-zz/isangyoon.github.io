@@ -18,7 +18,8 @@ main p,
 #index-banner h5,
 .page-footer h5,
 .page-footer p,
-.page-footer a {
+.page-footer a,
+.footer-copyright {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
