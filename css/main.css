@@ -13,6 +13,10 @@ strong {
   font-weight: 700;
 }
 
+.justify {
+  text-align: justify;
+}
+
 .padding-top-5px {
   padding-top: 5px;
 }
@@ -25,10 +29,6 @@ strong {
 
 .page-footer {
   padding-top: 10px;
-}
-
-.icon-block p {
-  text-align: justify;
 }
 
 .parallax-container {
