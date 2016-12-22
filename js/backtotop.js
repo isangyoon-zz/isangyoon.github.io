@@ -8,7 +8,7 @@ jQuery(document).ready(function($) {
   $(window).scroll(function() {
     ($(this).scrollTop() > offset) ? $back_to_top.addClass('back-to-top-visible') : $back_to_top.removeClass('back-to-top-visible back-to-top-fade-out');
 
-    if($(this).scrollTop() > offset_opacity) $back_to_top.addClass('back-to-top-fade-out');
+    // if($(this).scrollTop() > offset_opacity) $back_to_top.addClass('back-to-top-fade-out');
   });
 
   $back_to_top.on('click', function(event) {
